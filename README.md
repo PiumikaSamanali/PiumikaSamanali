@@ -1,7 +1,7 @@
 - 👋 Hi there
 - 🧍‍♀️ I’m Samanali (@PiumikaSamanali)
 -  🔭 I love exploring Machine Learning, Chemometrics, and Chemistry with a focus on Vibrational Spectroscopic Applications
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning (New to ML)
 - 📫 Reach me through https://www.linkedin.com/in/piumika-samanali/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always missing my phone
