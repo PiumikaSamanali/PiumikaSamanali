@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning (New to ML)
 - 📫 Reach me through https://www.linkedin.com/in/piumika-samanali/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I always missing my phone
+- ⚡ Fun fact: I always forget where is my phone
 
 <!---
 PiumikaSamanali/PiumikaSamanali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
